@@ -9,6 +9,7 @@ __pycache__/
 # Environment variables
 .env
 .env.*
+.secrets/
 
 # Testing
 .pytest_cache/
